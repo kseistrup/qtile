@@ -24,6 +24,10 @@ from __future__ import division
 from libqtile.log_utils import init_log
 from libqtile.dgroups import DGroups
 from xcffib.xproto import EventMask, WindowError, AccessError, DrawableError
+<<<<<<< HEAD
+=======
+import imp
+>>>>>>> 1a29b8860c78d667821cbdbcb2f2322f7060828e
 import logging
 import os
 import pickle
